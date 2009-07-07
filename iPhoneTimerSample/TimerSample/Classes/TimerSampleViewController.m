@@ -21,7 +21,7 @@
 -(void)updateTimer:(NSTimer *)t
 {
 	// 経過時刻をアップデート
-	self.currentTime+= [t timeInterval];
+	self.currentTime = [NSDate timeIntervalSinceReferenceDate] - self.startTime;
 	// 表示
 	[self.resTf setText:[NSString stringWithFormat:@"%.4f sec", currentTime]];
 }
@@ -51,9 +51,9 @@
 -(IBAction) stopTimer
 {
 	// 時間を算出
-	NSTimeInterval duration = [NSDate timeIntervalSinceReferenceDate] - self.startTime;
+	currentTime = [NSDate timeIntervalSinceReferenceDate] - self.startTime;
 	// 経過時間を表示
-	[self.resTf setText:[NSString stringWithFormat:@"%.4f sec", duration]];
+	[self.resTf setText:[NSString stringWithFormat:@"%.4f sec", currentTime]];
 	// ボタンの有効無効を設定
 	[self.startBtn setEnabled:YES];
 	[self.stopBtn setEnabled:NO];

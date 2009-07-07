@@ -320,38 +320,21 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>3C26EEF210024871005B4E88</string>
+										<string>3C26EF5F10030917005B4E88</string>
 										<key>history</key>
 										<array>
 											<string>3C26EED810024871005B4E88</string>
 											<string>3C26EED910024871005B4E88</string>
 											<string>3C26EEDA10024871005B4E88</string>
 											<string>3C26EEDB10024871005B4E88</string>
-											<string>3C26EEDC10024871005B4E88</string>
+											<string>3C26EEF210024871005B4E88</string>
 										</array>
 										<key>prevStack</key>
 										<array>
 											<string>3C26EEDD10024871005B4E88</string>
 											<string>3C26EEDE10024871005B4E88</string>
 											<string>3C26EEDF10024871005B4E88</string>
-											<string>3C26EEE010024871005B4E88</string>
-											<string>3C26EEE110024871005B4E88</string>
-											<string>3C26EEE210024871005B4E88</string>
-											<string>3C26EEE310024871005B4E88</string>
-											<string>3C26EEE410024871005B4E88</string>
-											<string>3C26EEE510024871005B4E88</string>
-											<string>3C26EEE610024871005B4E88</string>
-											<string>3C26EEE710024871005B4E88</string>
-											<string>3C26EEE810024871005B4E88</string>
-											<string>3C26EEE910024871005B4E88</string>
-											<string>3C26EEEA10024871005B4E88</string>
-											<string>3C26EEEB10024871005B4E88</string>
-											<string>3C26EEEC10024871005B4E88</string>
-											<string>3C26EEED10024871005B4E88</string>
-											<string>3C26EEEE10024871005B4E88</string>
-											<string>3C26EEEF10024871005B4E88</string>
 											<string>3C26EEF010024871005B4E88</string>
-											<string>3C26EEF110024871005B4E88</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -411,9 +394,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>3C26EEA710023D96005B4E88</string>
+				<string>3C26EF6010030917005B4E88</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>3C26EEA810023D96005B4E88</string>
+				<string>3C26EF6110030917005B4E88</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -547,12 +530,8 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>3C26EEFC10024871005B4E88</string>
-		<string>3C26EEFD10024871005B4E88</string>
-		<string>3C26EEF310024871005B4E88</string>
-		<string>1C78EAAD065D492600B07095</string>
 		<string>1CD10A99069EF8BA00B06720</string>
-		<string>/Users/mmlemon/Documents/develop/iPhone/TimerSample/TimerSample.xcodeproj</string>
+		<string>/Users/mmlemon/Documents/git/iPhoneTimerSample/iPhoneTimerSample/TimerSample/TimerSample.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
 	<string>653 194 788 684 0 0 1440 878 </string>
@@ -674,8 +653,8 @@
 										<string>yes</string>
 										<key>sizes</key>
 										<array>
-											<string>{{0, 0}, {316, 185}}</string>
-											<string>{{316, 0}, {378, 185}}</string>
+											<string>{{0, 0}, {316, 194}}</string>
+											<string>{{316, 0}, {378, 194}}</string>
 										</array>
 									</dict>
 									<key>VerticalSplitView</key>
@@ -690,8 +669,8 @@
 										<string>yes</string>
 										<key>sizes</key>
 										<array>
-											<string>{{0, 0}, {694, 185}}</string>
-											<string>{{0, 185}, {694, 196}}</string>
+											<string>{{0, 0}, {694, 194}}</string>
+											<string>{{0, 194}, {694, 187}}</string>
 										</array>
 									</dict>
 								</dict>
@@ -724,7 +703,7 @@
 										<real>148</real>
 									</array>
 									<key>Frame</key>
-									<string>{{316, 0}, {378, 185}}</string>
+									<string>{{316, 0}, {378, 194}}</string>
 									<key>RubberWindowFrame</key>
 									<string>674 433 694 422 0 0 1440 878 </string>
 								</dict>
@@ -752,13 +731,13 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>1CD10A99069EF8BA00B06720</string>
-				<string>3C26EEF510024871005B4E88</string>
+				<string>3C26EF6210030917005B4E88</string>
 				<string>1C162984064C10D400B95A72</string>
-				<string>3C26EEF610024871005B4E88</string>
-				<string>3C26EEF710024871005B4E88</string>
-				<string>3C26EEF810024871005B4E88</string>
-				<string>3C26EEF910024871005B4E88</string>
-				<string>3C26EEFA10024871005B4E88</string>
+				<string>3C26EF6310030917005B4E88</string>
+				<string>3C26EF6410030917005B4E88</string>
+				<string>3C26EF6510030917005B4E88</string>
+				<string>3C26EF6610030917005B4E88</string>
+				<string>3C26EF6710030917005B4E88</string>
 			</array>
 			<key>ToolbarConfiguration</key>
 			<string>xcode.toolbar.config.debugV3</string>
