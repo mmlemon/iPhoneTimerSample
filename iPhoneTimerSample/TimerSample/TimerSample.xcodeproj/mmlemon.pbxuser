@@ -1,0 +1,413 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* TimerSampleAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 448}}";
+			sepNavSelRange = "{112, 0}";
+			sepNavVisRange = "{0, 493}";
+		};
+	};
+	1D3623250D0F684500981E51 /* TimerSampleAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 510}}";
+			sepNavSelRange = "{112, 0}";
+			sepNavVisRange = "{0, 621}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* TimerSample */ = {
+		activeExec = 0;
+		executables = (
+			3C26EEA310023D92005B4E88 /* TimerSample */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* TimerSampleViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 495}}";
+			sepNavSelRange = "{115, 0}";
+			sepNavVisRange = "{0, 739}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* TimerSampleViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 1992}}";
+			sepNavSelRange = "{115, 0}";
+			sepNavVisRange = "{0, 554}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 3C26EEA310023D92005B4E88 /* TimerSample */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* TimerSample */;
+		codeSenseManager = 3C26EEAB10023D96005B4E88 /* Code sense */;
+		executables = (
+			3C26EEA310023D92005B4E88 /* TimerSample */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 268582290;
+			PBXWorkspaceStateSaveDate = 268582290;
+		};
+		perUserProjectItems = {
+			3C26EED810024871005B4E88 /* PBXTextBookmark */ = 3C26EED810024871005B4E88 /* PBXTextBookmark */;
+			3C26EED910024871005B4E88 /* PBXTextBookmark */ = 3C26EED910024871005B4E88 /* PBXTextBookmark */;
+			3C26EEDA10024871005B4E88 /* PBXTextBookmark */ = 3C26EEDA10024871005B4E88 /* PBXTextBookmark */;
+			3C26EEDB10024871005B4E88 /* PBXTextBookmark */ = 3C26EEDB10024871005B4E88 /* PBXTextBookmark */;
+			3C26EEDC10024871005B4E88 /* PlistBookmark */ = 3C26EEDC10024871005B4E88 /* PlistBookmark */;
+			3C26EEDD10024871005B4E88 /* PBXTextBookmark */ = 3C26EEDD10024871005B4E88 /* PBXTextBookmark */;
+			3C26EEDE10024871005B4E88 /* PBXTextBookmark */ = 3C26EEDE10024871005B4E88 /* PBXTextBookmark */;
+			3C26EEDF10024871005B4E88 /* PBXTextBookmark */ = 3C26EEDF10024871005B4E88 /* PBXTextBookmark */;
+			3C26EEE010024871005B4E88 /* PBXTextBookmark */ = 3C26EEE010024871005B4E88 /* PBXTextBookmark */;
+			3C26EEE110024871005B4E88 /* PBXTextBookmark */ = 3C26EEE110024871005B4E88 /* PBXTextBookmark */;
+			3C26EEE210024871005B4E88 /* PBXTextBookmark */ = 3C26EEE210024871005B4E88 /* PBXTextBookmark */;
+			3C26EEE310024871005B4E88 /* PBXTextBookmark */ = 3C26EEE310024871005B4E88 /* PBXTextBookmark */;
+			3C26EEE410024871005B4E88 /* PBXTextBookmark */ = 3C26EEE410024871005B4E88 /* PBXTextBookmark */;
+			3C26EEE510024871005B4E88 /* PBXTextBookmark */ = 3C26EEE510024871005B4E88 /* PBXTextBookmark */;
+			3C26EEE610024871005B4E88 /* PBXTextBookmark */ = 3C26EEE610024871005B4E88 /* PBXTextBookmark */;
+			3C26EEE710024871005B4E88 /* PBXTextBookmark */ = 3C26EEE710024871005B4E88 /* PBXTextBookmark */;
+			3C26EEE810024871005B4E88 /* PBXTextBookmark */ = 3C26EEE810024871005B4E88 /* PBXTextBookmark */;
+			3C26EEE910024871005B4E88 /* PBXTextBookmark */ = 3C26EEE910024871005B4E88 /* PBXTextBookmark */;
+			3C26EEEA10024871005B4E88 /* PBXTextBookmark */ = 3C26EEEA10024871005B4E88 /* PBXTextBookmark */;
+			3C26EEEB10024871005B4E88 /* PBXTextBookmark */ = 3C26EEEB10024871005B4E88 /* PBXTextBookmark */;
+			3C26EEEC10024871005B4E88 /* PBXTextBookmark */ = 3C26EEEC10024871005B4E88 /* PBXTextBookmark */;
+			3C26EEED10024871005B4E88 /* PBXTextBookmark */ = 3C26EEED10024871005B4E88 /* PBXTextBookmark */;
+			3C26EEEE10024871005B4E88 /* PBXTextBookmark */ = 3C26EEEE10024871005B4E88 /* PBXTextBookmark */;
+			3C26EEEF10024871005B4E88 /* PBXTextBookmark */ = 3C26EEEF10024871005B4E88 /* PBXTextBookmark */;
+			3C26EEF010024871005B4E88 /* PBXTextBookmark */ = 3C26EEF010024871005B4E88 /* PBXTextBookmark */;
+			3C26EEF110024871005B4E88 /* PBXTextBookmark */ = 3C26EEF110024871005B4E88 /* PBXTextBookmark */;
+			3C26EEF210024871005B4E88 /* PlistBookmark */ = 3C26EEF210024871005B4E88 /* PlistBookmark */;
+		};
+		sourceControlManager = 3C26EEAA10023D96005B4E88 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	3C26EEA310023D92005B4E88 /* TimerSample */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = TimerSample;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+	};
+	3C26EEAA10023D96005B4E88 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	3C26EEAB10023D96005B4E88 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	3C26EED810024871005B4E88 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TimerSampleViewController.m */;
+		name = "TimerSampleViewController.m: 6";
+		rLen = 0;
+		rLoc = 115;
+		rType = 0;
+		vrLen = 554;
+		vrLoc = 0;
+	};
+	3C26EED910024871005B4E88 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TimerSampleViewController.h */;
+		name = "TimerSampleViewController.h: 6";
+		rLen = 0;
+		rLoc = 115;
+		rType = 0;
+		vrLen = 739;
+		vrLoc = 0;
+	};
+	3C26EEDA10024871005B4E88 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* TimerSampleAppDelegate.m */;
+		name = "TimerSampleAppDelegate.m: 6";
+		rLen = 0;
+		rLoc = 112;
+		rType = 0;
+		vrLen = 621;
+		vrLoc = 0;
+	};
+	3C26EEDB10024871005B4E88 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* TimerSampleAppDelegate.h */;
+		name = "TimerSampleAppDelegate.h: 6";
+		rLen = 0;
+		rLoc = 112;
+		rType = 0;
+		vrLen = 493;
+		vrLoc = 0;
+	};
+	3C26EEDC10024871005B4E88 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* TimerSample-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/mmlemon/Documents/develop/iPhone/TimerSample/TimerSample-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	3C26EEDD10024871005B4E88 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* TimerSampleAppDelegate.h */;
+		name = "TimerSampleAppDelegate.h: 15";
+		rLen = 0;
+		rLoc = 335;
+		rType = 0;
+		vrLen = 499;
+		vrLoc = 0;
+	};
+	3C26EEDE10024871005B4E88 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TimerSampleViewController.m */;
+		name = "TimerSampleViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 654;
+		vrLoc = 0;
+	};
+	3C26EEDF10024871005B4E88 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TimerSampleViewController.h */;
+		name = "TimerSampleViewController.h: 20";
+		rLen = 0;
+		rLoc = 571;
+		rType = 0;
+		vrLen = 510;
+		vrLoc = 0;
+	};
+	3C26EEE010024871005B4E88 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TimerSampleViewController.m */;
+		name = "TimerSampleViewController.m: 66";
+		rLen = 0;
+		rLoc = 2587;
+		rType = 0;
+		vrLen = 627;
+		vrLoc = 0;
+	};
+	3C26EEE110024871005B4E88 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TimerSampleViewController.h */;
+		name = "TimerSampleViewController.h: 23";
+		rLen = 0;
+		rLoc = 761;
+		rType = 0;
+		vrLen = 558;
+		vrLoc = 0;
+	};
+	3C26EEE210024871005B4E88 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TimerSampleViewController.m */;
+		name = "TimerSampleViewController.m: 19";
+		rLen = 0;
+		rLoc = 981;
+		rType = 0;
+		vrLen = 530;
+		vrLoc = 149;
+	};
+	3C26EEE310024871005B4E88 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TimerSampleViewController.h */;
+		name = "TimerSampleViewController.h: 24";
+		rLen = 0;
+		rLoc = 668;
+		rType = 0;
+		vrLen = 637;
+		vrLoc = 0;
+	};
+	3C26EEE410024871005B4E88 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TimerSampleViewController.m */;
+		name = "TimerSampleViewController.m: 12";
+		rLen = 0;
+		rLoc = 228;
+		rType = 0;
+		vrLen = 418;
+		vrLoc = 149;
+	};
+	3C26EEE510024871005B4E88 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TimerSampleViewController.h */;
+		name = "TimerSampleViewController.h: 24";
+		rLen = 0;
+		rLoc = 600;
+		rType = 0;
+		vrLen = 645;
+		vrLoc = 0;
+	};
+	3C26EEE610024871005B4E88 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TimerSampleViewController.m */;
+		name = "TimerSampleViewController.m: 12";
+		rLen = 0;
+		rLoc = 228;
+		rType = 0;
+		vrLen = 490;
+		vrLoc = 149;
+	};
+	3C26EEE710024871005B4E88 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TimerSampleViewController.h */;
+		name = "TimerSampleViewController.h: 24";
+		rLen = 0;
+		rLoc = 592;
+		rType = 0;
+		vrLen = 637;
+		vrLoc = 0;
+	};
+	3C26EEE810024871005B4E88 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TimerSampleViewController.m */;
+		name = "TimerSampleViewController.m: 26";
+		rLen = 0;
+		rLoc = 1316;
+		rType = 0;
+		vrLen = 613;
+		vrLoc = 149;
+	};
+	3C26EEE910024871005B4E88 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TimerSampleViewController.h */;
+		name = "TimerSampleViewController.h: 24";
+		rLen = 0;
+		rLoc = 609;
+		rType = 0;
+		vrLen = 635;
+		vrLoc = 0;
+	};
+	3C26EEEA10024871005B4E88 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TimerSampleViewController.m */;
+		name = "TimerSampleViewController.m: 20";
+		rLen = 0;
+		rLoc = 917;
+		rType = 0;
+		vrLen = 780;
+		vrLoc = 235;
+	};
+	3C26EEEB10024871005B4E88 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TimerSampleViewController.h */;
+		name = "TimerSampleViewController.h: 27";
+		rLen = 0;
+		rLoc = 714;
+		rType = 0;
+		vrLen = 691;
+		vrLoc = 0;
+	};
+	3C26EEEC10024871005B4E88 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TimerSampleViewController.m */;
+		name = "TimerSampleViewController.m: 22";
+		rLen = 0;
+		rLoc = 468;
+		rType = 0;
+		vrLen = 720;
+		vrLoc = 257;
+	};
+	3C26EEED10024871005B4E88 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TimerSampleViewController.h */;
+		name = "TimerSampleViewController.h: 27";
+		rLen = 0;
+		rLoc = 668;
+		rType = 0;
+		vrLen = 745;
+		vrLoc = 0;
+	};
+	3C26EEEE10024871005B4E88 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TimerSampleViewController.m */;
+		name = "TimerSampleViewController.m: 6";
+		rLen = 0;
+		rLoc = 115;
+		rType = 0;
+		vrLen = 554;
+		vrLoc = 0;
+	};
+	3C26EEEF10024871005B4E88 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TimerSampleViewController.h */;
+		name = "TimerSampleViewController.h: 6";
+		rLen = 0;
+		rLoc = 115;
+		rType = 0;
+		vrLen = 739;
+		vrLoc = 0;
+	};
+	3C26EEF010024871005B4E88 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* TimerSampleAppDelegate.m */;
+		name = "TimerSampleAppDelegate.m: 6";
+		rLen = 0;
+		rLoc = 112;
+		rType = 0;
+		vrLen = 621;
+		vrLoc = 0;
+	};
+	3C26EEF110024871005B4E88 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* TimerSampleAppDelegate.h */;
+		name = "TimerSampleAppDelegate.h: 6";
+		rLen = 0;
+		rLoc = 112;
+		rType = 0;
+		vrLen = 493;
+		vrLoc = 0;
+	};
+	3C26EEF210024871005B4E88 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* TimerSample-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/mmlemon/Documents/develop/iPhone/TimerSample/TimerSample-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+}
